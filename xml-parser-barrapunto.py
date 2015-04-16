@@ -4,8 +4,7 @@
 """
 
 	Alejandro Valeriano Fernandez - GITT
-	Ejercicio 13.6
-	Calculadora
+	BarraPunto
 
 """
 #
